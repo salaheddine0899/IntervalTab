@@ -1,0 +1,10 @@
+﻿  Tableau.cpp
+C:\Users\a\Documents\poo\IntervalTabLib\IntervalTabLib\Tableau.cpp(8,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\a\Documents\poo\IntervalTabLib\IntervalTabLib\Tableau.cpp(20,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\a\Documents\poo\IntervalTabLib\IntervalTabLib\Tableau.cpp(34,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\a\Documents\poo\IntervalTabLib\IntervalTabLib\Tableau.cpp(55,21): warning C4018: '<': signed/unsigned mismatch
+  TableauBorne.cpp
+  Generating Code...
+C:\Users\a\Documents\poo\IntervalTabLib\IntervalTabLib\TableauBorne.cpp(23): warning C4715: 'inter::TableauBorne::operator[]': not all control paths return a value
+C:\Users\a\Documents\poo\IntervalTabLib\IntervalTabLib\Tableau.cpp(52): warning C4715: 'inter::Tableau::operator[]': not all control paths return a value
+  IntervalTabLib.vcxproj -> C:\Users\a\Documents\poo\IntervalTabLib\x64\Debug\IntervalTabLib.lib
